@@ -1,2 +1,2 @@
 git branch操作
-modi:gittest2-another修改一次
+modi:gittest2-another修改一次 | |modi:gittest2修改一次
